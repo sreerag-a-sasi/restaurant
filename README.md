@@ -1,2 +1,0 @@
-# restaurant
-template editing project
